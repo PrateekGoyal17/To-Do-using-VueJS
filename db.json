@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "mQpTglHa4",
+      "title": "Task 1",
+      "completed": true,
+      "created_at": "3/12/2024, 6:43:37 PM"
+    },
+    {
+      "id": "Au7_SLw0l",
+      "title": "Task 2",
+      "completed": true,
+      "created_at": "3/12/2024, 6:43:38 PM"
+    },
+    {
+      "id": "xiVS0MRtr",
+      "title": "Task 3",
+      "completed": false,
+      "created_at": "3/12/2024, 6:43:40 PM"
+    }
+  ]
+}
